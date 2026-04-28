@@ -14,6 +14,7 @@ An Excel-based automation tool that streamlines the preparation and distribution
 
 ## Tools & Techniques Used
 
+- **Oracle ERP (AR Module)** — source system for raw statement exports processed by this template
 - **Power Query** — automated data transformation, column filtering, and sorting on refresh
 - **VBA (Macros)** — one-click data clearing and automated export with dynamic filename generation
 - **Conditional Formatting** — dynamic row highlighting based on payment status
